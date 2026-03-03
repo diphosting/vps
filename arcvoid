@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katalog VPS Murah & Cepat</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 font-sans text-gray-900">
+
+    <nav class="bg-white shadow-sm py-4">
+        <div class="container mx-auto px-6 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold text-blue-600">Arvo<span>.id</span></a>
+            <div class="space-x-6">
+                <a href="#harga" class="hover:text-blue-600">Harga</a>
+                <a href="#" class="hover:text-blue-600">Layanan</a>
+                <a href="#" class="bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-700">Login</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="container mx-auto px-6 py-16 text-center">
+        <h1 class="text-4xl md:text-6xl font-extrabold mb-4">Cloud VPS Performa Tinggi</h1>
+        <p class="text-xl text-gray-600 mb-8">Deploy server Anda dalam hitungan detik dengan penyimpanan NVMe murni.</p>
+    </header>
+
+    <section id="harga" class="container mx-auto px-6 pb-20">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            
+            <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100 hover:border-blue-500 transition-all">
+                <h3 class="text-xl font-bold mb-2">Paket Starter</h3>
+                <p class="text-gray-500 mb-6">Cocok untuk blog/web kecil.</p>
+                <div class="text-4xl font-bold mb-6">Rp 50.000 <span class="text-lg text-gray-400 font-normal">/bln</span></div>
+                <ul class="space-y-4 mb-8 text-gray-600">
+                    <li class="flex items-center">✅ 1 vCPU Core</li>
+                    <li class="flex items-center">✅ 1 GB RAM</li>
+                    <li class="flex items-center">✅ 25 GB NVMe SSD</li>
+                    <li class="flex items-center">✅ 1 TB Bandwidth</li>
+                </ul>
+                <a href="https://wa.me/nomor-anda" class="block text-center bg-gray-100 text-blue-600 font-semibold py-3 rounded-xl hover:bg-blue-600 hover:text-white transition shadow-sm">Pesan Sekarang</a>
+            </div>
+
+            <div class="bg-blue-600 p-8 rounded-2xl shadow-xl transform scale-105 border-2 border-blue-400 text-white">
+                <div class="bg-yellow-400 text-blue-900 text-xs font-bold px-3 py-1 rounded-full inline-block mb-4">PALING POPULER</div>
+                <h3 class="text-xl font-bold mb-2">Paket Business</h3>
+                <p class="text-blue-100 mb-6">Untuk aplikasi & e-commerce.</p>
+                <div class="text-4xl font-bold mb-6">Rp 150.000 <span class="text-lg text-blue-200 font-normal">/bln</span></div>
+                <ul class="space-y-4 mb-8">
+                    <li class="flex items-center">✅ 2 vCPU Cores</li>
+                    <li class="flex items-center">✅ 4 GB RAM</li>
+                    <li class="flex items-center">✅ 80 GB NVMe SSD</li>
+                    <li class="flex items-center">✅ Unlimited Bandwidth</li>
+                </ul>
+                <a href="https://wa.me/nomor-anda" class="block text-center bg-white text-blue-600 font-bold py-3 rounded-xl hover:bg-gray-100 transition shadow-lg">Pesan Sekarang</a>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100 hover:border-blue-500 transition-all">
+                <h3 class="text-xl font-bold mb-2">Paket Pro</h3>
+                <p class="text-gray-500 mb-6">Performa maksimal tanpa batas.</p>
+                <div class="text-4xl font-bold mb-6">Rp 300.000 <span class="text-lg text-gray-400 font-normal">/bln</span></div>
+                <ul class="space-y-4 mb-8 text-gray-600">
+                    <li class="flex items-center">✅ 4 vCPU Cores</li>
+                    <li class="flex items-center">✅ 8 GB RAM</li>
+                    <li class="flex items-center">✅ 160 GB NVMe SSD</li>
+                    <li class="flex items-center">✅ Unlimited Bandwidth</li>
+                </ul>
+                <a href="https://wa.me/message/LUKWNVTWBIO4H1" class="block text-center bg-gray-100 text-blue-600 font-semibold py-3 rounded-xl hover:bg-blue-600 hover:text-white transition shadow-sm">Pesan Sekarang</a>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="bg-gray-900 text-gray-400 py-10 text-center">
+        <p>&copy; 2026 IndoVPS Cloud. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
